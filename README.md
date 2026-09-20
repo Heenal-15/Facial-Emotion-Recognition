@@ -131,7 +131,7 @@ Face Expression Recognition Dataset
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Heenal-15/Facial-Emotion-Recognition.git
 cd Facial-Emotion-Recognition
 ```
 
